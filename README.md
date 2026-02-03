@@ -24,6 +24,13 @@ using Terraform and simple shell scripts.
 
 ---
 
+## Production Version
+
+A production-ready version with HTTPS, auto-renewal, and hardening is available here:
+👉 https://vishnudevopseng.gumroad.com/l/vqxzh
+
+---
+
 ## Prerequisites
 
 - AWS account
