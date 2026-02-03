@@ -1,5 +1,10 @@
 # AWS EC2 + Nginx (Production-Ready Starter)
 
+** Need HTTPS on AWS EC2 fast?**  
+   A production-ready EC2 + Nginx + SSL (Terraform) setup is available here:
+  👉 https://vishnudevopseng.gumroad.com/l/vqxzh
+
+
 This repository helps you quickly launch an AWS EC2 instance with Nginx installed,
 using Terraform and simple shell scripts.
 
